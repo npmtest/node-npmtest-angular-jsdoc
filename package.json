@@ -1,1 +1,40 @@
-{     "devDependencies": {         "angular-jsdoc": "*",         "electron-lite": "kaizhu256/node-electron-lite#alpha",         "utility2": "kaizhu256/node-utility2#alpha"     },     "name":"npmtest-angular-jsdoc",     "homepage": "https://github.com/npmtest/node-npmtest-angular-jsdoc",     "repository": {         "type": "git",         "url": "https://github.com/npmtest/node-npmtest-angular-jsdoc.git"     },     "scripts": {         "build-ci": "utility2 shReadmeTest build_ci.sh"     },     "version": "0.0.1" }
+{
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "description": "#### basic test coverage for  [angular-jsdoc (v1.5.0)](https://github.com/allenhwkim/angular-jsdoc#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-angular-jsdoc.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angular-jsdoc) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angular-jsdoc.svg)](https://travis-ci.org/npmtest/node-npmtest-angular-jsdoc)",
+    "devDependencies": {
+        "angular-jsdoc": "*",
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmtest/node-npmtest-angular-jsdoc",
+    "keywords": [
+        "coverage",
+        "test",
+        "angular-jsdoc"
+    ],
+    "license": "MIT",
+    "main": "lib.npmtest_angular_jsdoc.js",
+    "name": "npmtest-angular-jsdoc",
+    "nameAlias": "npmtest_angular_jsdoc",
+    "nameOriginal": "npmtest-angular-jsdoc",
+    "os": [
+        "darwin",
+        "linux"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmtest/node-npmtest-angular-jsdoc.git"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "npm install \"kaizhu256/node-utility2#alpha\" && utility2 shDeployHeroku",
+        "postinstall": "[ ! -f npm_scripts.sh ] || ./npm_scripts.sh postinstall",
+        "start": "PORT=${PORT:-8080} utility2 start test.js",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
+    },
+    "version": "0.0.1"
+}
