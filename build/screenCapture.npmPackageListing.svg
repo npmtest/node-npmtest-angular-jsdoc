@@ -1,144 +1,144 @@
 <svg height="2254" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2254" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 23:54:25 +0000  2822224 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 23:54:25 +0000     1101 bytes  LICENSE.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 23:54:25 +0000     6715 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 23:54:25 +0000      970 bytes  angular-template/README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 23:54:25 +0000     2160 bytes  angular-template/css/prettify-tomorrow.css</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 23:54:25 +0000     1622 bytes  angular-template/css/prettify.css</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 23:54:25 +0000     7175 bytes  angular-template/css/site.css</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 23:54:25 +0000     5658 bytes  angular-template/docs/app.config.html</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 23:54:25 +0000     7470 bytes  angular-template/docs/app.customCurrency.html</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 23:54:25 +0000     6545 bytes  angular-template/docs/app.testService.html</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 23:54:25 +0000     2160 bytes  angular-template/docs/css/prettify-tomorrow.css</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 23:54:25 +0000     1622 bytes  angular-template/docs/css/prettify.css</tspan>
-<tspan x="10" y="218"> 12.  2017-04-19 23:54:25 +0000     6995 bytes  angular-template/docs/css/site.css</tspan>
-<tspan x="10" y="234"> 13.  2017-04-19 23:54:25 +0000     4660 bytes  angular-template/docs/index.html</tspan>
-<tspan x="10" y="250"> 14.  2017-04-19 23:54:25 +0000   147352 bytes  angular-template/docs/js/angular.min.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-19 23:54:25 +0000    65019 bytes  angular-template/docs/js/prettify.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-19 23:54:25 +0000      949 bytes  angular-template/docs/js/site.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-19 23:54:25 +0000    17324 bytes  angular-template/docs/ngmap.Attr2Options.html</tspan>
-<tspan x="10" y="314"> 18.  2017-04-19 23:54:25 +0000    10841 bytes  angular-template/docs/ngmap.MapController.html</tspan>
-<tspan x="10" y="330"> 19.  2017-04-19 23:54:25 +0000    12831 bytes  angular-template/docs/ngmap.map.html</tspan>
-<tspan x="10" y="346"> 20.  2017-04-19 23:54:25 +0000     5070 bytes  angular-template/docs/source/app.config.html</tspan>
-<tspan x="10" y="362"> 21.  2017-04-19 23:54:25 +0000     6050 bytes  angular-template/docs/source/app.customCurrency.\</tspan>
+<tspan x="10" y="26">  0.  2017-04-22 08:43:18 +0000  2822224 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 08:43:18 +0000     1101 bytes  LICENSE.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 08:43:18 +0000     6715 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 08:43:18 +0000      970 bytes  angular-template/README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 08:43:18 +0000     2160 bytes  angular-template/css/prettify-tomorrow.css</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 08:43:18 +0000     1622 bytes  angular-template/css/prettify.css</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 08:43:18 +0000     7175 bytes  angular-template/css/site.css</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 08:43:18 +0000     5658 bytes  angular-template/docs/app.config.html</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 08:43:18 +0000     7470 bytes  angular-template/docs/app.customCurrency.html</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 08:43:18 +0000     6545 bytes  angular-template/docs/app.testService.html</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 08:43:18 +0000     2160 bytes  angular-template/docs/css/prettify-tomorrow.css</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 08:43:18 +0000     1622 bytes  angular-template/docs/css/prettify.css</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 08:43:18 +0000     6995 bytes  angular-template/docs/css/site.css</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 08:43:18 +0000     4660 bytes  angular-template/docs/index.html</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 08:43:18 +0000   147352 bytes  angular-template/docs/js/angular.min.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 08:43:18 +0000    65019 bytes  angular-template/docs/js/prettify.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 08:43:18 +0000      949 bytes  angular-template/docs/js/site.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-22 08:43:18 +0000    17324 bytes  angular-template/docs/ngmap.Attr2Options.html</tspan>
+<tspan x="10" y="314"> 18.  2017-04-22 08:43:18 +0000    10841 bytes  angular-template/docs/ngmap.MapController.html</tspan>
+<tspan x="10" y="330"> 19.  2017-04-22 08:43:18 +0000    12831 bytes  angular-template/docs/ngmap.map.html</tspan>
+<tspan x="10" y="346"> 20.  2017-04-22 08:43:18 +0000     5070 bytes  angular-template/docs/source/app.config.html</tspan>
+<tspan x="10" y="362"> 21.  2017-04-22 08:43:18 +0000     6050 bytes  angular-template/docs/source/app.customCurrency.\</tspan>
 <tspan x="10" y="378">html</tspan>
-<tspan x="10" y="394"> 22.  2017-04-19 23:54:25 +0000     5303 bytes  angular-template/docs/source/app.testService.htm\</tspan>
+<tspan x="10" y="394"> 22.  2017-04-22 08:43:18 +0000     5303 bytes  angular-template/docs/source/app.testService.htm\</tspan>
 <tspan x="10" y="410">l</tspan>
-<tspan x="10" y="426"> 23.  2017-04-19 23:54:25 +0000     7466 bytes  angular-template/docs/source/ngmap.Attr2Options.\</tspan>
+<tspan x="10" y="426"> 23.  2017-04-22 08:43:18 +0000     7466 bytes  angular-template/docs/source/ngmap.Attr2Options.\</tspan>
 <tspan x="10" y="442">html</tspan>
-<tspan x="10" y="458"> 24.  2017-04-19 23:54:25 +0000     6465 bytes  angular-template/docs/source/ngmap.MapController\</tspan>
+<tspan x="10" y="458"> 24.  2017-04-22 08:43:18 +0000     6465 bytes  angular-template/docs/source/ngmap.MapController\</tspan>
 <tspan x="10" y="474">.html</tspan>
-<tspan x="10" y="490"> 25.  2017-04-19 23:54:25 +0000     7587 bytes  angular-template/docs/source/ngmap.map.html</tspan>
-<tspan x="10" y="506"> 26.  2017-04-19 23:54:25 +0000     4850 bytes  angular-template/docs/templates/sample-codes_ngm\</tspan>
+<tspan x="10" y="490"> 25.  2017-04-22 08:43:18 +0000     7587 bytes  angular-template/docs/source/ngmap.map.html</tspan>
+<tspan x="10" y="506"> 26.  2017-04-22 08:43:18 +0000     4850 bytes  angular-template/docs/templates/sample-codes_ngm\</tspan>
 <tspan x="10" y="522">ap_test-template.html</tspan>
-<tspan x="10" y="538"> 27.  2017-04-19 23:54:25 +0000      121 bytes  angular-template/docs/tutorial-childA.html</tspan>
-<tspan x="10" y="554"> 28.  2017-04-19 23:54:25 +0000      101 bytes  angular-template/docs/tutorial-childB.html</tspan>
-<tspan x="10" y="570"> 29.  2017-04-19 23:54:25 +0000      107 bytes  angular-template/docs/tutorial-my-tutorial.html</tspan>
-<tspan x="10" y="586"> 30.  2017-04-19 23:54:25 +0000      302 bytes  angular-template/docs/tutorial-tutorial1.html</tspan>
-<tspan x="10" y="602"> 31.  2017-04-19 23:54:25 +0000      126 bytes  angular-template/docs/tutorial-tutorial2.html</tspan>
-<tspan x="10" y="618"> 32.  2017-04-19 23:54:25 +0000     7505 bytes  angular-template/html/class.html</tspan>
-<tspan x="10" y="634"> 33.  2017-04-19 23:54:25 +0000     3497 bytes  angular-template/html/layout.html</tspan>
-<tspan x="10" y="650"> 34.  2017-04-19 23:54:25 +0000      317 bytes  angular-template/html/tutorial.html</tspan>
-<tspan x="10" y="666"> 35.  2017-04-19 23:54:25 +0000   147352 bytes  angular-template/js/angular.min.js</tspan>
-<tspan x="10" y="682"> 36.  2017-04-19 23:54:25 +0000    65019 bytes  angular-template/js/prettify.js</tspan>
-<tspan x="10" y="698"> 37.  2017-04-19 23:54:25 +0000      949 bytes  angular-template/js/site.js</tspan>
-<tspan x="10" y="714"> 38.  2017-04-19 23:54:25 +0000    10309 bytes  angular-template/publish.js</tspan>
-<tspan x="10" y="730"> 39.  2017-04-19 23:54:25 +0000      204 bytes  common/conf.json</tspan>
-<tspan x="10" y="746"> 40.  2017-04-19 23:54:25 +0000     4563 bytes  common/plugins/ngdoc.js</tspan>
-<tspan x="10" y="762"> 41.  2017-04-19 23:54:25 +0000      177 bytes  common/test_conf.json</tspan>
-<tspan x="10" y="778"> 42.  2017-04-19 23:54:25 +0000      943 bytes  default/README.md</tspan>
-<tspan x="10" y="794"> 43.  2017-04-19 23:54:25 +0000     6568 bytes  default/css/jsdoc-default.css</tspan>
-<tspan x="10" y="810"> 44.  2017-04-19 23:54:25 +0000     2160 bytes  default/css/prettify-tomorrow.css</tspan>
-<tspan x="10" y="826"> 45.  2017-04-19 23:54:25 +0000     1622 bytes  default/css/prettify.css</tspan>
-<tspan x="10" y="842"> 46.  2017-04-19 23:54:25 +0000     3063 bytes  default/docs/app.config.html</tspan>
-<tspan x="10" y="858"> 47.  2017-04-19 23:54:25 +0000     4938 bytes  default/docs/app.customCurrency.html</tspan>
-<tspan x="10" y="874"> 48.  2017-04-19 23:54:25 +0000     3979 bytes  default/docs/app.testService.html</tspan>
-<tspan x="10" y="890"> 49.  2017-04-19 23:54:25 +0000     6568 bytes  default/docs/css/jsdoc-default.css</tspan>
-<tspan x="10" y="906"> 50.  2017-04-19 23:54:25 +0000     2160 bytes  default/docs/css/prettify-tomorrow.css</tspan>
-<tspan x="10" y="922"> 51.  2017-04-19 23:54:25 +0000     1622 bytes  default/docs/css/prettify.css</tspan>
-<tspan x="10" y="938"> 52.  2017-04-19 23:54:25 +0000    19544 bytes  default/docs/fonts/OpenSans-Bold-webfont.eot</tspan>
-<tspan x="10" y="954"> 53.  2017-04-19 23:54:25 +0000   120088 bytes  default/docs/fonts/OpenSans-Bold-webfont.svg</tspan>
-<tspan x="10" y="970"> 54.  2017-04-19 23:54:25 +0000    22432 bytes  default/docs/fonts/OpenSans-Bold-webfont.woff</tspan>
-<tspan x="10" y="986"> 55.  2017-04-19 23:54:25 +0000    20133 bytes  default/docs/fonts/OpenSans-BoldItalic-webfont.e\</tspan>
+<tspan x="10" y="538"> 27.  2017-04-22 08:43:18 +0000      121 bytes  angular-template/docs/tutorial-childA.html</tspan>
+<tspan x="10" y="554"> 28.  2017-04-22 08:43:18 +0000      101 bytes  angular-template/docs/tutorial-childB.html</tspan>
+<tspan x="10" y="570"> 29.  2017-04-22 08:43:18 +0000      107 bytes  angular-template/docs/tutorial-my-tutorial.html</tspan>
+<tspan x="10" y="586"> 30.  2017-04-22 08:43:18 +0000      302 bytes  angular-template/docs/tutorial-tutorial1.html</tspan>
+<tspan x="10" y="602"> 31.  2017-04-22 08:43:18 +0000      126 bytes  angular-template/docs/tutorial-tutorial2.html</tspan>
+<tspan x="10" y="618"> 32.  2017-04-22 08:43:18 +0000     7505 bytes  angular-template/html/class.html</tspan>
+<tspan x="10" y="634"> 33.  2017-04-22 08:43:18 +0000     3497 bytes  angular-template/html/layout.html</tspan>
+<tspan x="10" y="650"> 34.  2017-04-22 08:43:18 +0000      317 bytes  angular-template/html/tutorial.html</tspan>
+<tspan x="10" y="666"> 35.  2017-04-22 08:43:18 +0000   147352 bytes  angular-template/js/angular.min.js</tspan>
+<tspan x="10" y="682"> 36.  2017-04-22 08:43:18 +0000    65019 bytes  angular-template/js/prettify.js</tspan>
+<tspan x="10" y="698"> 37.  2017-04-22 08:43:18 +0000      949 bytes  angular-template/js/site.js</tspan>
+<tspan x="10" y="714"> 38.  2017-04-22 08:43:18 +0000    10309 bytes  angular-template/publish.js</tspan>
+<tspan x="10" y="730"> 39.  2017-04-22 08:43:18 +0000      204 bytes  common/conf.json</tspan>
+<tspan x="10" y="746"> 40.  2017-04-22 08:43:18 +0000     4563 bytes  common/plugins/ngdoc.js</tspan>
+<tspan x="10" y="762"> 41.  2017-04-22 08:43:18 +0000      177 bytes  common/test_conf.json</tspan>
+<tspan x="10" y="778"> 42.  2017-04-22 08:43:18 +0000      943 bytes  default/README.md</tspan>
+<tspan x="10" y="794"> 43.  2017-04-22 08:43:18 +0000     6568 bytes  default/css/jsdoc-default.css</tspan>
+<tspan x="10" y="810"> 44.  2017-04-22 08:43:18 +0000     2160 bytes  default/css/prettify-tomorrow.css</tspan>
+<tspan x="10" y="826"> 45.  2017-04-22 08:43:18 +0000     1622 bytes  default/css/prettify.css</tspan>
+<tspan x="10" y="842"> 46.  2017-04-22 08:43:18 +0000     3063 bytes  default/docs/app.config.html</tspan>
+<tspan x="10" y="858"> 47.  2017-04-22 08:43:18 +0000     4938 bytes  default/docs/app.customCurrency.html</tspan>
+<tspan x="10" y="874"> 48.  2017-04-22 08:43:18 +0000     3979 bytes  default/docs/app.testService.html</tspan>
+<tspan x="10" y="890"> 49.  2017-04-22 08:43:18 +0000     6568 bytes  default/docs/css/jsdoc-default.css</tspan>
+<tspan x="10" y="906"> 50.  2017-04-22 08:43:18 +0000     2160 bytes  default/docs/css/prettify-tomorrow.css</tspan>
+<tspan x="10" y="922"> 51.  2017-04-22 08:43:18 +0000     1622 bytes  default/docs/css/prettify.css</tspan>
+<tspan x="10" y="938"> 52.  2017-04-22 08:43:18 +0000    19544 bytes  default/docs/fonts/OpenSans-Bold-webfont.eot</tspan>
+<tspan x="10" y="954"> 53.  2017-04-22 08:43:18 +0000   120088 bytes  default/docs/fonts/OpenSans-Bold-webfont.svg</tspan>
+<tspan x="10" y="970"> 54.  2017-04-22 08:43:18 +0000    22432 bytes  default/docs/fonts/OpenSans-Bold-webfont.woff</tspan>
+<tspan x="10" y="986"> 55.  2017-04-22 08:43:18 +0000    20133 bytes  default/docs/fonts/OpenSans-BoldItalic-webfont.e\</tspan>
 <tspan x="10" y="1002">ot</tspan>
-<tspan x="10" y="1018"> 56.  2017-04-19 23:54:25 +0000   122941 bytes  default/docs/fonts/OpenSans-BoldItalic-webfont.s\</tspan>
+<tspan x="10" y="1018"> 56.  2017-04-22 08:43:18 +0000   122941 bytes  default/docs/fonts/OpenSans-BoldItalic-webfont.s\</tspan>
 <tspan x="10" y="1034">vg</tspan>
-<tspan x="10" y="1050"> 57.  2017-04-19 23:54:25 +0000    23048 bytes  default/docs/fonts/OpenSans-BoldItalic-webfont.w\</tspan>
+<tspan x="10" y="1050"> 57.  2017-04-22 08:43:18 +0000    23048 bytes  default/docs/fonts/OpenSans-BoldItalic-webfont.w\</tspan>
 <tspan x="10" y="1066">off</tspan>
-<tspan x="10" y="1082"> 58.  2017-04-19 23:54:25 +0000    20265 bytes  default/docs/fonts/OpenSans-Italic-webfont.eot</tspan>
-<tspan x="10" y="1098"> 59.  2017-04-19 23:54:25 +0000   124324 bytes  default/docs/fonts/OpenSans-Italic-webfont.svg</tspan>
-<tspan x="10" y="1114"> 60.  2017-04-19 23:54:25 +0000    23188 bytes  default/docs/fonts/OpenSans-Italic-webfont.woff</tspan>
-<tspan x="10" y="1130"> 61.  2017-04-19 23:54:25 +0000    19514 bytes  default/docs/fonts/OpenSans-Light-webfont.eot</tspan>
-<tspan x="10" y="1146"> 62.  2017-04-19 23:54:25 +0000   119100 bytes  default/docs/fonts/OpenSans-Light-webfont.svg</tspan>
-<tspan x="10" y="1162"> 63.  2017-04-19 23:54:25 +0000    22248 bytes  default/docs/fonts/OpenSans-Light-webfont.woff</tspan>
-<tspan x="10" y="1178"> 64.  2017-04-19 23:54:25 +0000    20535 bytes  default/docs/fonts/OpenSans-LightItalic-webfont.\</tspan>
+<tspan x="10" y="1082"> 58.  2017-04-22 08:43:18 +0000    20265 bytes  default/docs/fonts/OpenSans-Italic-webfont.eot</tspan>
+<tspan x="10" y="1098"> 59.  2017-04-22 08:43:18 +0000   124324 bytes  default/docs/fonts/OpenSans-Italic-webfont.svg</tspan>
+<tspan x="10" y="1114"> 60.  2017-04-22 08:43:18 +0000    23188 bytes  default/docs/fonts/OpenSans-Italic-webfont.woff</tspan>
+<tspan x="10" y="1130"> 61.  2017-04-22 08:43:18 +0000    19514 bytes  default/docs/fonts/OpenSans-Light-webfont.eot</tspan>
+<tspan x="10" y="1146"> 62.  2017-04-22 08:43:18 +0000   119100 bytes  default/docs/fonts/OpenSans-Light-webfont.svg</tspan>
+<tspan x="10" y="1162"> 63.  2017-04-22 08:43:18 +0000    22248 bytes  default/docs/fonts/OpenSans-Light-webfont.woff</tspan>
+<tspan x="10" y="1178"> 64.  2017-04-22 08:43:18 +0000    20535 bytes  default/docs/fonts/OpenSans-LightItalic-webfont.\</tspan>
 <tspan x="10" y="1194">eot</tspan>
-<tspan x="10" y="1210"> 65.  2017-04-19 23:54:25 +0000   124802 bytes  default/docs/fonts/OpenSans-LightItalic-webfont.\</tspan>
+<tspan x="10" y="1210"> 65.  2017-04-22 08:43:18 +0000   124802 bytes  default/docs/fonts/OpenSans-LightItalic-webfont.\</tspan>
 <tspan x="10" y="1226">svg</tspan>
-<tspan x="10" y="1242"> 66.  2017-04-19 23:54:25 +0000    23400 bytes  default/docs/fonts/OpenSans-LightItalic-webfont.\</tspan>
+<tspan x="10" y="1242"> 66.  2017-04-22 08:43:18 +0000    23400 bytes  default/docs/fonts/OpenSans-LightItalic-webfont.\</tspan>
 <tspan x="10" y="1258">woff</tspan>
-<tspan x="10" y="1274"> 67.  2017-04-19 23:54:25 +0000    19836 bytes  default/docs/fonts/OpenSans-Regular-webfont.eot</tspan>
-<tspan x="10" y="1290"> 68.  2017-04-19 23:54:25 +0000   121229 bytes  default/docs/fonts/OpenSans-Regular-webfont.svg</tspan>
-<tspan x="10" y="1306"> 69.  2017-04-19 23:54:25 +0000    22660 bytes  default/docs/fonts/OpenSans-Regular-webfont.woff</tspan>
-<tspan x="10" y="1322"> 70.  2017-04-19 23:54:25 +0000     2184 bytes  default/docs/index.html</tspan>
-<tspan x="10" y="1338"> 71.  2017-04-19 23:54:25 +0000    65019 bytes  default/docs/js/prettify.js</tspan>
-<tspan x="10" y="1354"> 72.  2017-04-19 23:54:25 +0000    10798 bytes  default/docs/ngmap.Attr2Options.html</tspan>
-<tspan x="10" y="1370"> 73.  2017-04-19 23:54:25 +0000     7039 bytes  default/docs/ngmap.MapController.html</tspan>
-<tspan x="10" y="1386"> 74.  2017-04-19 23:54:25 +0000     9227 bytes  default/docs/ngmap.map.html</tspan>
-<tspan x="10" y="1402"> 75.  2017-04-19 23:54:25 +0000     2572 bytes  default/docs/source/app.config.html</tspan>
-<tspan x="10" y="1418"> 76.  2017-04-19 23:54:25 +0000     3552 bytes  default/docs/source/app.customCurrency.html</tspan>
-<tspan x="10" y="1434"> 77.  2017-04-19 23:54:25 +0000     2805 bytes  default/docs/source/app.testService.html</tspan>
-<tspan x="10" y="1450"> 78.  2017-04-19 23:54:25 +0000     4968 bytes  default/docs/source/ngmap.Attr2Options.html</tspan>
-<tspan x="10" y="1466"> 79.  2017-04-19 23:54:25 +0000     3967 bytes  default/docs/source/ngmap.MapController.html</tspan>
-<tspan x="10" y="1482"> 80.  2017-04-19 23:54:25 +0000     5089 bytes  default/docs/source/ngmap.map.html</tspan>
-<tspan x="10" y="1498"> 81.  2017-04-19 23:54:25 +0000      121 bytes  default/docs/tutorial-childA.html</tspan>
-<tspan x="10" y="1514"> 82.  2017-04-19 23:54:25 +0000      101 bytes  default/docs/tutorial-childB.html</tspan>
-<tspan x="10" y="1530"> 83.  2017-04-19 23:54:25 +0000      107 bytes  default/docs/tutorial-my-tutorial.html</tspan>
-<tspan x="10" y="1546"> 84.  2017-04-19 23:54:25 +0000      342 bytes  default/docs/tutorial-tutorial1.html</tspan>
-<tspan x="10" y="1562"> 85.  2017-04-19 23:54:25 +0000      126 bytes  default/docs/tutorial-tutorial2.html</tspan>
-<tspan x="10" y="1578"> 86.  2017-04-19 23:54:25 +0000    19544 bytes  default/fonts/OpenSans-Bold-webfont.eot</tspan>
-<tspan x="10" y="1594"> 87.  2017-04-19 23:54:25 +0000   120088 bytes  default/fonts/OpenSans-Bold-webfont.svg</tspan>
-<tspan x="10" y="1610"> 88.  2017-04-19 23:54:25 +0000    22432 bytes  default/fonts/OpenSans-Bold-webfont.woff</tspan>
-<tspan x="10" y="1626"> 89.  2017-04-19 23:54:25 +0000    20133 bytes  default/fonts/OpenSans-BoldItalic-webfont.eot</tspan>
-<tspan x="10" y="1642"> 90.  2017-04-19 23:54:25 +0000   122941 bytes  default/fonts/OpenSans-BoldItalic-webfont.svg</tspan>
-<tspan x="10" y="1658"> 91.  2017-04-19 23:54:25 +0000    23048 bytes  default/fonts/OpenSans-BoldItalic-webfont.woff</tspan>
-<tspan x="10" y="1674"> 92.  2017-04-19 23:54:25 +0000    20265 bytes  default/fonts/OpenSans-Italic-webfont.eot</tspan>
-<tspan x="10" y="1690"> 93.  2017-04-19 23:54:25 +0000   124324 bytes  default/fonts/OpenSans-Italic-webfont.svg</tspan>
-<tspan x="10" y="1706"> 94.  2017-04-19 23:54:25 +0000    23188 bytes  default/fonts/OpenSans-Italic-webfont.woff</tspan>
-<tspan x="10" y="1722"> 95.  2017-04-19 23:54:25 +0000    19514 bytes  default/fonts/OpenSans-Light-webfont.eot</tspan>
-<tspan x="10" y="1738"> 96.  2017-04-19 23:54:25 +0000   119100 bytes  default/fonts/OpenSans-Light-webfont.svg</tspan>
-<tspan x="10" y="1754"> 97.  2017-04-19 23:54:25 +0000    22248 bytes  default/fonts/OpenSans-Light-webfont.woff</tspan>
-<tspan x="10" y="1770"> 98.  2017-04-19 23:54:25 +0000    20535 bytes  default/fonts/OpenSans-LightItalic-webfont.eot</tspan>
-<tspan x="10" y="1786"> 99.  2017-04-19 23:54:25 +0000   124802 bytes  default/fonts/OpenSans-LightItalic-webfont.svg</tspan>
-<tspan x="10" y="1802">100.  2017-04-19 23:54:25 +0000    23400 bytes  default/fonts/OpenSans-LightItalic-webfont.woff</tspan>
-<tspan x="10" y="1818">101.  2017-04-19 23:54:25 +0000    19836 bytes  default/fonts/OpenSans-Regular-webfont.eot</tspan>
-<tspan x="10" y="1834">102.  2017-04-19 23:54:25 +0000   121229 bytes  default/fonts/OpenSans-Regular-webfont.svg</tspan>
-<tspan x="10" y="1850">103.  2017-04-19 23:54:25 +0000    22660 bytes  default/fonts/OpenSans-Regular-webfont.woff</tspan>
-<tspan x="10" y="1866">104.  2017-04-19 23:54:25 +0000     6155 bytes  default/html/class.html</tspan>
-<tspan x="10" y="1882">105.  2017-04-19 23:54:25 +0000     2144 bytes  default/html/layout.html</tspan>
-<tspan x="10" y="1898">106.  2017-04-19 23:54:25 +0000      404 bytes  default/html/tutorial.html</tspan>
-<tspan x="10" y="1914">107.  2017-04-19 23:54:25 +0000    65019 bytes  default/js/prettify.js</tspan>
-<tspan x="10" y="1930">108.  2017-04-19 23:54:25 +0000     8087 bytes  default/publish.js</tspan>
-<tspan x="10" y="1946">109.  2017-04-19 23:54:25 +0000     1223 bytes  gulpfile.js</tspan>
-<tspan x="10" y="1962">110.  2017-04-19 23:54:25 +0000     1995 bytes  index.js</tspan>
-<tspan x="10" y="1978">111.  2017-04-19 23:54:25 +0000     2726 bytes  package.json</tspan>
-<tspan x="10" y="1994">112.  2017-04-19 23:54:25 +0000       55 bytes  sample-codes/README.md</tspan>
-<tspan x="10" y="2010">113.  2017-04-19 23:54:25 +0000      428 bytes  sample-codes/app/config.js</tspan>
-<tspan x="10" y="2026">114.  2017-04-19 23:54:25 +0000     1400 bytes  sample-codes/app/custom-currency.js</tspan>
-<tspan x="10" y="2042">115.  2017-04-19 23:54:25 +0000      655 bytes  sample-codes/app/test-service.js</tspan>
-<tspan x="10" y="2058">116.  2017-04-19 23:54:25 +0000     2822 bytes  sample-codes/ngmap/attr2-options.js</tspan>
-<tspan x="10" y="2074">117.  2017-04-19 23:54:25 +0000     1815 bytes  sample-codes/ngmap/map-controller.js</tspan>
-<tspan x="10" y="2090">118.  2017-04-19 23:54:25 +0000     2926 bytes  sample-codes/ngmap/map.js</tspan>
-<tspan x="10" y="2106">119.  2017-04-19 23:54:25 +0000      112 bytes  sample-codes/ngmap/test-template.html</tspan>
-<tspan x="10" y="2122">120.  2017-04-19 23:54:25 +0000      332 bytes  sample-codes/tutorials/all.json</tspan>
-<tspan x="10" y="2138">121.  2017-04-19 23:54:25 +0000       37 bytes  sample-codes/tutorials/childA.md</tspan>
-<tspan x="10" y="2154">122.  2017-04-19 23:54:25 +0000       17 bytes  sample-codes/tutorials/childB.md</tspan>
-<tspan x="10" y="2170">123.  2017-04-19 23:54:25 +0000       30 bytes  sample-codes/tutorials/my-tutorial.html</tspan>
-<tspan x="10" y="2186">124.  2017-04-19 23:54:25 +0000       26 bytes  sample-codes/tutorials/tutorial1.md</tspan>
-<tspan x="10" y="2202">125.  2017-04-19 23:54:25 +0000       40 bytes  sample-codes/tutorials/tutorial2.md</tspan>
-<tspan x="10" y="2218">126.  2017-04-19 23:54:25 +0000      401 bytes  test.js</tspan>
-<tspan x="10" y="2234">127.  2017-04-19 23:54:25 +0000      552 bytes  test.sh</tspan>
+<tspan x="10" y="1274"> 67.  2017-04-22 08:43:18 +0000    19836 bytes  default/docs/fonts/OpenSans-Regular-webfont.eot</tspan>
+<tspan x="10" y="1290"> 68.  2017-04-22 08:43:18 +0000   121229 bytes  default/docs/fonts/OpenSans-Regular-webfont.svg</tspan>
+<tspan x="10" y="1306"> 69.  2017-04-22 08:43:18 +0000    22660 bytes  default/docs/fonts/OpenSans-Regular-webfont.woff</tspan>
+<tspan x="10" y="1322"> 70.  2017-04-22 08:43:18 +0000     2184 bytes  default/docs/index.html</tspan>
+<tspan x="10" y="1338"> 71.  2017-04-22 08:43:18 +0000    65019 bytes  default/docs/js/prettify.js</tspan>
+<tspan x="10" y="1354"> 72.  2017-04-22 08:43:18 +0000    10798 bytes  default/docs/ngmap.Attr2Options.html</tspan>
+<tspan x="10" y="1370"> 73.  2017-04-22 08:43:18 +0000     7039 bytes  default/docs/ngmap.MapController.html</tspan>
+<tspan x="10" y="1386"> 74.  2017-04-22 08:43:18 +0000     9227 bytes  default/docs/ngmap.map.html</tspan>
+<tspan x="10" y="1402"> 75.  2017-04-22 08:43:18 +0000     2572 bytes  default/docs/source/app.config.html</tspan>
+<tspan x="10" y="1418"> 76.  2017-04-22 08:43:18 +0000     3552 bytes  default/docs/source/app.customCurrency.html</tspan>
+<tspan x="10" y="1434"> 77.  2017-04-22 08:43:18 +0000     2805 bytes  default/docs/source/app.testService.html</tspan>
+<tspan x="10" y="1450"> 78.  2017-04-22 08:43:18 +0000     4968 bytes  default/docs/source/ngmap.Attr2Options.html</tspan>
+<tspan x="10" y="1466"> 79.  2017-04-22 08:43:18 +0000     3967 bytes  default/docs/source/ngmap.MapController.html</tspan>
+<tspan x="10" y="1482"> 80.  2017-04-22 08:43:18 +0000     5089 bytes  default/docs/source/ngmap.map.html</tspan>
+<tspan x="10" y="1498"> 81.  2017-04-22 08:43:18 +0000      121 bytes  default/docs/tutorial-childA.html</tspan>
+<tspan x="10" y="1514"> 82.  2017-04-22 08:43:18 +0000      101 bytes  default/docs/tutorial-childB.html</tspan>
+<tspan x="10" y="1530"> 83.  2017-04-22 08:43:18 +0000      107 bytes  default/docs/tutorial-my-tutorial.html</tspan>
+<tspan x="10" y="1546"> 84.  2017-04-22 08:43:18 +0000      342 bytes  default/docs/tutorial-tutorial1.html</tspan>
+<tspan x="10" y="1562"> 85.  2017-04-22 08:43:18 +0000      126 bytes  default/docs/tutorial-tutorial2.html</tspan>
+<tspan x="10" y="1578"> 86.  2017-04-22 08:43:18 +0000    19544 bytes  default/fonts/OpenSans-Bold-webfont.eot</tspan>
+<tspan x="10" y="1594"> 87.  2017-04-22 08:43:18 +0000   120088 bytes  default/fonts/OpenSans-Bold-webfont.svg</tspan>
+<tspan x="10" y="1610"> 88.  2017-04-22 08:43:18 +0000    22432 bytes  default/fonts/OpenSans-Bold-webfont.woff</tspan>
+<tspan x="10" y="1626"> 89.  2017-04-22 08:43:18 +0000    20133 bytes  default/fonts/OpenSans-BoldItalic-webfont.eot</tspan>
+<tspan x="10" y="1642"> 90.  2017-04-22 08:43:18 +0000   122941 bytes  default/fonts/OpenSans-BoldItalic-webfont.svg</tspan>
+<tspan x="10" y="1658"> 91.  2017-04-22 08:43:18 +0000    23048 bytes  default/fonts/OpenSans-BoldItalic-webfont.woff</tspan>
+<tspan x="10" y="1674"> 92.  2017-04-22 08:43:18 +0000    20265 bytes  default/fonts/OpenSans-Italic-webfont.eot</tspan>
+<tspan x="10" y="1690"> 93.  2017-04-22 08:43:18 +0000   124324 bytes  default/fonts/OpenSans-Italic-webfont.svg</tspan>
+<tspan x="10" y="1706"> 94.  2017-04-22 08:43:18 +0000    23188 bytes  default/fonts/OpenSans-Italic-webfont.woff</tspan>
+<tspan x="10" y="1722"> 95.  2017-04-22 08:43:18 +0000    19514 bytes  default/fonts/OpenSans-Light-webfont.eot</tspan>
+<tspan x="10" y="1738"> 96.  2017-04-22 08:43:18 +0000   119100 bytes  default/fonts/OpenSans-Light-webfont.svg</tspan>
+<tspan x="10" y="1754"> 97.  2017-04-22 08:43:18 +0000    22248 bytes  default/fonts/OpenSans-Light-webfont.woff</tspan>
+<tspan x="10" y="1770"> 98.  2017-04-22 08:43:18 +0000    20535 bytes  default/fonts/OpenSans-LightItalic-webfont.eot</tspan>
+<tspan x="10" y="1786"> 99.  2017-04-22 08:43:18 +0000   124802 bytes  default/fonts/OpenSans-LightItalic-webfont.svg</tspan>
+<tspan x="10" y="1802">100.  2017-04-22 08:43:18 +0000    23400 bytes  default/fonts/OpenSans-LightItalic-webfont.woff</tspan>
+<tspan x="10" y="1818">101.  2017-04-22 08:43:18 +0000    19836 bytes  default/fonts/OpenSans-Regular-webfont.eot</tspan>
+<tspan x="10" y="1834">102.  2017-04-22 08:43:18 +0000   121229 bytes  default/fonts/OpenSans-Regular-webfont.svg</tspan>
+<tspan x="10" y="1850">103.  2017-04-22 08:43:18 +0000    22660 bytes  default/fonts/OpenSans-Regular-webfont.woff</tspan>
+<tspan x="10" y="1866">104.  2017-04-22 08:43:18 +0000     6155 bytes  default/html/class.html</tspan>
+<tspan x="10" y="1882">105.  2017-04-22 08:43:18 +0000     2144 bytes  default/html/layout.html</tspan>
+<tspan x="10" y="1898">106.  2017-04-22 08:43:18 +0000      404 bytes  default/html/tutorial.html</tspan>
+<tspan x="10" y="1914">107.  2017-04-22 08:43:18 +0000    65019 bytes  default/js/prettify.js</tspan>
+<tspan x="10" y="1930">108.  2017-04-22 08:43:18 +0000     8087 bytes  default/publish.js</tspan>
+<tspan x="10" y="1946">109.  2017-04-22 08:43:18 +0000     1223 bytes  gulpfile.js</tspan>
+<tspan x="10" y="1962">110.  2017-04-22 08:43:18 +0000     1995 bytes  index.js</tspan>
+<tspan x="10" y="1978">111.  2017-04-22 08:43:18 +0000     2726 bytes  package.json</tspan>
+<tspan x="10" y="1994">112.  2017-04-22 08:43:18 +0000       55 bytes  sample-codes/README.md</tspan>
+<tspan x="10" y="2010">113.  2017-04-22 08:43:18 +0000      428 bytes  sample-codes/app/config.js</tspan>
+<tspan x="10" y="2026">114.  2017-04-22 08:43:18 +0000     1400 bytes  sample-codes/app/custom-currency.js</tspan>
+<tspan x="10" y="2042">115.  2017-04-22 08:43:18 +0000      655 bytes  sample-codes/app/test-service.js</tspan>
+<tspan x="10" y="2058">116.  2017-04-22 08:43:18 +0000     2822 bytes  sample-codes/ngmap/attr2-options.js</tspan>
+<tspan x="10" y="2074">117.  2017-04-22 08:43:18 +0000     1815 bytes  sample-codes/ngmap/map-controller.js</tspan>
+<tspan x="10" y="2090">118.  2017-04-22 08:43:18 +0000     2926 bytes  sample-codes/ngmap/map.js</tspan>
+<tspan x="10" y="2106">119.  2017-04-22 08:43:18 +0000      112 bytes  sample-codes/ngmap/test-template.html</tspan>
+<tspan x="10" y="2122">120.  2017-04-22 08:43:18 +0000      332 bytes  sample-codes/tutorials/all.json</tspan>
+<tspan x="10" y="2138">121.  2017-04-22 08:43:18 +0000       37 bytes  sample-codes/tutorials/childA.md</tspan>
+<tspan x="10" y="2154">122.  2017-04-22 08:43:18 +0000       17 bytes  sample-codes/tutorials/childB.md</tspan>
+<tspan x="10" y="2170">123.  2017-04-22 08:43:18 +0000       30 bytes  sample-codes/tutorials/my-tutorial.html</tspan>
+<tspan x="10" y="2186">124.  2017-04-22 08:43:18 +0000       26 bytes  sample-codes/tutorials/tutorial1.md</tspan>
+<tspan x="10" y="2202">125.  2017-04-22 08:43:18 +0000       40 bytes  sample-codes/tutorials/tutorial2.md</tspan>
+<tspan x="10" y="2218">126.  2017-04-22 08:43:18 +0000      401 bytes  test.js</tspan>
+<tspan x="10" y="2234">127.  2017-04-22 08:43:18 +0000      552 bytes  test.sh</tspan>
 </text>
 </svg>
