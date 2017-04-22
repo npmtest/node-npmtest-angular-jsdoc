@@ -1,6 +1,6 @@
 # npmtest-angular-jsdoc
 
-#### basic test coverage for  [angular-jsdoc (v1.5.0)](https://github.com/allenhwkim/angular-jsdoc#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-angular-jsdoc.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angular-jsdoc) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angular-jsdoc.svg)](https://travis-ci.org/npmtest/node-npmtest-angular-jsdoc)
+#### basic test-coverage for  [angular-jsdoc (v1.5.0)](https://github.com/allenhwkim/angular-jsdoc#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-angular-jsdoc.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angular-jsdoc) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angular-jsdoc.svg)](https://travis-ci.org/npmtest/node-npmtest-angular-jsdoc)
 
 #### JsDoc Plugin and Template for AngularJs
 
@@ -88,7 +88,8 @@
     "scripts": {
         "test": "./test.sh"
     },
-    "version": "1.5.0"
+    "version": "1.5.0",
+    "bin": {}
 }
 ```
 
